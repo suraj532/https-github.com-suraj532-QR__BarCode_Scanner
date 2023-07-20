@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR &amp; Barcode Scanner</string>
+    <string name="tap_to_scan">Tap to Scan</string>
+    <string name="developed_by_amit_rajbhar">Developed by Amit Rajbhar</string>
+    <string name="qr_amp_barcode_scanner"><![CDATA[QR & Barcode Scanner]]></string>
+    <string name="logo">LOGO</string>
+</resources>
